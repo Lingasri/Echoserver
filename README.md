@@ -55,5 +55,15 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 
+Server output:
+
+![server  ouput](https://github.com/Jayakrishnan22003251/Echoserver/assets/120232371/07c565aa-aa58-42b2-955b-4924f2ec7bb7)
+
+
+Client side:
+
+![client output](https://github.com/Jayakrishnan22003251/Echoserver/assets/120232371/573f26b2-b5d9-414e-9a03-836c8f627306)
+
+
 ## RESULT:
 The program is executed successfully
